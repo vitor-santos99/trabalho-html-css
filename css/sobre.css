@@ -1,0 +1,52 @@
+.container1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.container2 {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.container3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-justify: auto;
+}
+
+.container4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-justify: auto;
+}
+
+.container5 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-justify: auto;
+}
+
+.container6 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-justify: auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+
+
+h3 {
+    text-align: center;
+}
